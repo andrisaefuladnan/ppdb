@@ -1,0 +1,5 @@
+<footer class="footer bg-dark text-white fixed-bottom">
+    <div class="container text-center">
+        <span>© 2025 PPDB Admin. All rights reserved.</span>
+    </div>
+</footer>
